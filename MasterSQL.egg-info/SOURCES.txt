@@ -1,0 +1,9 @@
+LICENSE
+README.rst
+setup.cfg
+setup.py
+MasterSQL.egg-info/PKG-INFO
+MasterSQL.egg-info/SOURCES.txt
+MasterSQL.egg-info/dependency_links.txt
+MasterSQL.egg-info/requires.txt
+MasterSQL.egg-info/top_level.txt
